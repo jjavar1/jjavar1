@@ -2,7 +2,7 @@
 
 # Julian Javaruski - Senior Software Engineer  
 
-Senior Software Engineer working with [Arvie](https://arvie.com), specializing in building scalable distributed systems, architecting cloud-native solutions, and driving automation for complex technical challenges. With over 4 years of experience, I focus on delivering measurable results—optimizing workflows, reducing infrastructure costs, and scaling applications to handle millions of requests.
+Senior Software Engineer working with [Arvie](https://arvie.com), specializing in building scalable distributed systems, architecting cloud-native solutions, and driving automation for complex technical challenges. With over 5 years of experience, I focus on delivering measurable results—optimizing workflows, reducing infrastructure costs, and scaling applications to handle millions of requests.
 
 ---
 
@@ -22,8 +22,6 @@ A multiplayer RPG game engine designed to handle 100+ concurrent users per serve
 - Built custom microservices for data persistence and analytics using Docker, RabbitMQ, and ElasticSearch.  
 - Designed a high-throughput chat service with gRPC capable of processing millions of requests.  
 - Integrated .NET APIs for client-server communication and real-time updates.  
-
-[Join our Discord for updates and community events](https://discord.gg/samsarasaga).
 
 ---
 
